@@ -1,0 +1,10 @@
+-------------------------------
+Fecha : 10/10/2025
+Hora : 20:50
+Origen : mexico
+Destino : honduras
+No. Avion : boing-234
+Estado : Pendiente
+Asientos: 3 
+-------------------------------
+
